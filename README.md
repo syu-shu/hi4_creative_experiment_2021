@@ -33,6 +33,8 @@ R3年度 創造実験
 * `Gtype.java`: 遺伝子
 * `Main.java`: DPとGAを一緒に実行していた時の残り物，大した意味はない
 
+メソッドはおおよそ内容が推測できる名前を付けている(はず).
+
 ## 実験手順
 1. `CreateDataset.java`で対象のデータセットを作成
     * `CreateDataset.java`を実行すると`Count`，`MaxCost`，`MaxValue`の入力を求められるのでそれぞれ`N`，`w_max`，`v_max`を入力
