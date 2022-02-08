@@ -1,0 +1,4 @@
+*.class
+experiment/datasets/*
+experiment/results/*/*/*
+experiment/plot/*.png
